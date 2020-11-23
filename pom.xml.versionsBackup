@@ -4,7 +4,7 @@
   <groupId>net.javaguides.maven-web-project</groupId>
   <artifactId>MavenWebApp</artifactId>
   <packaging>war</packaging>
-  <version>3.6.3</version>
+  <version>0.0.1-SNAPSHOT</version>
   <name>MavenWebApp Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
